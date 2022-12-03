@@ -3,12 +3,6 @@ qff_utils
 =========
 
 
-#.. image:: https://img.shields.io/pypi/v/qff_utils.svg
-#        :target: https://pypi.python.org/pypi/qff_utils
-
-#.. image:: https://img.shields.io/travis/MeganDavisChem/qff_utils.svg
-#        :target: https://travis-ci.com/MeganDavisChem/qff_utils
-
 .. image:: https://readthedocs.org/projects/qff-utils/badge/?version=latest
         :target: https://qff-utils.readthedocs.io/en/latest/?version=latest
         :alt: Documentation Status
