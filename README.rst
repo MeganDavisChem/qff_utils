@@ -20,7 +20,7 @@ to install anaconda and activate the proper environment on shell login.
 
 
 * Free software: MIT license
-* Documentation: https://qff-utils.readthedocs.io.
+* Documentation: https://qff-utils.readthedocs.io/en/latest/?version=latest
 
 
 Features
