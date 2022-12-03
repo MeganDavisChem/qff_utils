@@ -1,0 +1,23 @@
+STARTGEOM
+H 1.0 1.0 1.0
+O 0.0 0.0 0.0
+H 0.0 0.0 0.0
+ENDGEOM
+
+#c2v, cs, c1
+point_group = c2v
+mol_name = h2o
+#must belong to point group
+target_sym = b1 
+charge = 1
+multiplicity = 0
+#EOMIP, EOMEE, CON, VAR
+eom_type = EOMIP
+#CCSD, CCSDT, CCSDT-3, CC3
+base_method = CCSDT
+#CFOUR, PSI4, default (let program choose), optional
+program = default
+#run intder?, true/false
+run_intder = false
+#tqcc,tqccr,ccc,cccr,cccrt,tz,qz,5z,tq,etc
+qff_type = TQCC

@@ -1,0 +1,46 @@
+Freqs, ZPT=2692.1 (cm-1):
+ Mode    HARM    FUND    CORR
+    1  2797.6  2627.7  2638.0
+    2  1439.0  1405.2  1405.2
+    3  1214.6  1191.0  1191.0
+ABC (MHz):
+Constant     Value
+     A_e  471609.5
+     B_e   36736.6
+     C_e   34081.6
+     A_0  467114.6
+     B_0   36560.7
+     C_0   33773.9
+     A_1  448637.6
+     B_1   36648.4
+     C_1   33788.9
+     A_2  477978.0
+     B_2   36554.0
+     C_2   33613.0
+     A_3  465738.5
+     B_3   36126.5
+     C_3   33306.0
+       K  -0.98714
+Deltas:
+Constant     Units     Value
+    Δ_J        kHz   128.319
+    Δ_K        MHz    72.605
+    Δ_JK       MHz     2.413
+    δ_J        kHz     9.180
+    δ_K        MHz     1.418
+Phis:
+Constant     Units     Value
+    Φ_J        mHz   -16.930
+    Φ_K        kHz    27.009
+    Φ_JK        Hz    34.429
+    Φ_KJ        Hz   649.650
+    φ_j        mHz    33.947
+    φ_jk        Hz    19.794
+    φ_k        kHz     4.894
+Geom (A or Deg):
+          COORD       R(EQUIL)       R(ALPHA)
+       r(H1-C2)      1.1204016      1.1380459
+       r(C2-F3)      1.3089864      1.3150685
+    <(C2-H1-F3)    102.2822593    102.3505461
+Fermi Resonances:
+2v_2=v_3+v_2=v_1
